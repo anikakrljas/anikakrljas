@@ -18,4 +18,24 @@ Always hungry for knowledge, constantly experimenting, learning, and exploring. 
 ### 🧰 Tools & Technologies I Enjoy
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badg
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Connect With Me  
+<a href="https://www.linkedin.com/YOUR_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+### ⚡ Fun Fact  
+Whenever I think “I'll just take a quick look at this CTF challenge,” I somehow end up three hours deep into debugging something I wasn't even supposed to touch. 😅
+
+---
+
+✨ Thanks for stopping by!
