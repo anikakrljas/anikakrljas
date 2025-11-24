@@ -27,7 +27,7 @@ Always hungry for knowledge, constantly experimenting, learning, and exploring. 
 ---
 
 ### 📫 Connect With Me  
-<a href="https://www.linkedin.com/YOUR_LINK" target="_blank">
+<a href="https://www.linkedin.com/in/anika-krlja%C5%A1-511491301/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
