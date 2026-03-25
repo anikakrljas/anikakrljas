@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 ### 👩‍💻 About Me  
-I'm **Anika**, a curious mind passionate about **cybersecurity**, digital forensics, and uncovering hidden patterns in the chaos of the internet.  
-I love blending creativity with analytical thinking — from solving CTF challenges to automating tasks that make life easier.  
-Always hungry for knowledge, constantly experimenting, learning, and exploring. 🚀
+I'm **Anika**, a Computer Science and Engineering student with a strong interest in **cybersecurity**.  
+I'm especially interested in understanding how systems work under the hood — and how they break.  
+
+I enjoy learning through hands-on practice, whether it's analyzing network traffic, solving CTF challenges, or experimenting in environments like **Kali Linux**.  
+More often than not, a “quick check” turns into hours of digging into something I didn’t even plan to explore 😅  
 
 ---
 
@@ -21,7 +23,6 @@ Always hungry for knowledge, constantly experimenting, learning, and exploring. 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4DB33D?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -31,11 +32,6 @@ Always hungry for knowledge, constantly experimenting, learning, and exploring. 
 <a href="https://www.linkedin.com/in/anika-krlja%C5%A1-511491301/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
----
-
-### ⚡ Fun Fact  
-Whenever I think “I'll just take a quick look at this CTF challenge,” I somehow end up three hours deep into debugging something I wasn't even supposed to touch. 😅
 
 ---
 
